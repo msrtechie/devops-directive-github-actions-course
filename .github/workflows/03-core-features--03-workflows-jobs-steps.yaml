@@ -1,7 +1,7 @@
 name: Workflows, Jobs, and Steps
 
 on:
-  workflow_dispatch:
+ # workflow_dispatch:
 jobs:
   job-1:
     runs-on: ubuntu-24.04
