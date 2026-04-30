@@ -1,7 +1,13 @@
 name: Workflows, Jobs, and Steps
 
+<<<<<<< Updated upstream
 on:
  # workflow_dispatch:
+=======
+on: {}
+  # workflow_dispatch:
+  
+>>>>>>> Stashed changes
 jobs:
   job-1:
     runs-on: ubuntu-24.04
